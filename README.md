@@ -9,3 +9,8 @@ Matplotlib is optional as it was used to plot images
 
 Results as follows:
 
+
+<p align="center">
+  <img src="https://github.com/jeswivinay/PAINTIFY/blob/master/IMAGES/Result_APJ.PNG" >
+  <img src="https://github.com/jeswivinay/PAINTIFY/blob/master/IMAGES/Result_obama.PNG" >
+</p>
